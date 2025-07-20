@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/magasin/static/css/main.491d99cd.css",
+    "main.js": "/magasin/static/js/main.75b3521a.js",
+    "static/js/453.23fe8a51.chunk.js": "/magasin/static/js/453.23fe8a51.chunk.js",
+    "static/media/whitescarf.png": "/magasin/static/media/whitescarf.f832293e14af3a08da38.png",
+    "static/media/reddress.png": "/magasin/static/media/reddress.80acc3b64fb8e770de76.png",
+    "static/media/redsandals.png": "/magasin/static/media/redsandals.7afc27ec253cf8ea49cc.png",
+    "static/media/whiteskirt.png": "/magasin/static/media/whiteskirt.98466a702c04bdc6ac3c.png",
+    "static/media/pinkskirt.png": "/magasin/static/media/pinkskirt.54c3c3454bd800babb2d.png",
+    "static/media/redtshirt.png": "/magasin/static/media/redtshirt.cbb3242a2f87d14a0886.png",
+    "static/media/bluejeans.png": "/magasin/static/media/bluejeans.4f66f35edfa57f1ba92d.png",
+    "static/media/bluedress.png": "/magasin/static/media/bluedress.262d188bd028b638fde4.png",
+    "static/media/bluetshirt.png": "/magasin/static/media/bluetshirt.c9402361b27c827829d3.png",
+    "static/media/orangescarf.png": "/magasin/static/media/orangescarf.11b63a9592fc53a074bc.png",
+    "static/media/pinktshirt.png": "/magasin/static/media/pinktshirt.5a50c8e23859107a6490.png",
+    "static/media/cart.png": "/magasin/static/media/cart.ad2662a3e20033aaf2e6.png",
+    "static/media/star.png": "/magasin/static/media/star.09f93fc14a65fcb31846.png",
+    "static/media/orangesneakers.png": "/magasin/static/media/orangesneakers.c31c4ad32add885fe179.png",
+    "static/media/bluejacket.png": "/magasin/static/media/bluejacket.6fd6597784fba168aba1.png",
+    "static/media/logo.png": "/magasin/static/media/logo.3230aa15fe70880aef52.png",
+    "static/media/x.PNG": "/magasin/static/media/x.7e40f617aaa8eca864bb.PNG",
+    "static/media/insta.PNG": "/magasin/static/media/insta.cec5736859c50a5a0dc7.PNG",
+    "static/media/tiktok.PNG": "/magasin/static/media/tiktok.f61d62f01c2f347eec0e.PNG",
+    "static/media/facebook.PNG": "/magasin/static/media/facebook.bfd1cfff9f9521198b26.PNG",
+    "index.html": "/magasin/index.html",
+    "main.491d99cd.css.map": "/magasin/static/css/main.491d99cd.css.map",
+    "main.75b3521a.js.map": "/magasin/static/js/main.75b3521a.js.map",
+    "453.23fe8a51.chunk.js.map": "/magasin/static/js/453.23fe8a51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.491d99cd.css",
+    "static/js/main.75b3521a.js"
+  ]
+}
