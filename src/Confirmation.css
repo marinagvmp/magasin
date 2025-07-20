@@ -1,0 +1,75 @@
+.confirmation-container {
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 32px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+  }
+  
+  .confirmation-container h2 {
+    font-size: 2rem;
+    margin-bottom: 12px;
+    color: #222;
+  }
+  
+  .confirmation-container h4 {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    color: #444;
+  }
+  
+  .confirmation-container p {
+    margin-bottom: 24px;
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  .confirmation-form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 500;
+  }
+  
+  .star-row {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .confirmation-form textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    resize: vertical;
+    font-size: 1rem;
+    font-family: inherit;
+  }
+  
+  .confirmation-form textarea:focus {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.1);
+  }
+  
+  .submit-button {
+    margin-top: 24px;
+    background-color: #28a745;
+    color: #fff;
+    padding: 12px 20px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+  }
+  
+  .submit-button:hover {
+    background-color: #218838;
+  }
+  

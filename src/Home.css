@@ -1,0 +1,105 @@
+.home-container {
+    text-align: center;
+    padding: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .welcome {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  .category-wrapper {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 2rem;
+  }
+  
+  .feature-grid {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
+  
+  .feature-item {
+    width: 180px;
+    height: 180px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 12px;
+    padding: 1rem;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 1rem;
+    color: white;
+    cursor: pointer;
+    background-color: #6c757d;
+    transition: background-color 0.3s ease;
+  }
+  
+  .feature-item:hover {
+    background-color: #5a6268;
+  }
+  
+  .feature-item.redtshirt {
+    background-image: url('./assets/redtshirt.png');
+  }
+  .feature-item.pinkdress {
+    background-image: url('./assets/reddress.png'); 
+  }
+  .feature-item.orangesneakers {
+    background-image: url('./assets/orangesneakers.png');
+  }
+  
+  .home-container button {
+    background-color: #6c757d;
+    color: white;
+    padding: 10px 16px;
+    border: none;
+    border-radius: 6px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .home-container button:hover {
+    background-color: #5a6268;
+  }
+  
+  .quick-shop button,
+  .feature-item span {
+    background-color: #6c757d;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    transition: background-color 0.3s ease;
+  }
+  
+  .quick-shop button:hover,
+  .feature-item:hover span {
+    background-color: #5a6268;
+  }
+
+  .feature-item.shopall {
+    background-color: #ffeeda; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .shopall-logo {
+    width: 140px;
+    height: auto;
+    margin-bottom: 4px;
+  }
+  
+  
